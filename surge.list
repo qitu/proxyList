@@ -73,9 +73,9 @@ DOMAIN-SUFFIX,nepoapi.com,🌀 𝑨𝒖𝒕𝒐𝒎𝒂𝒕𝒊𝒄
 DOMAIN-SUFFIX,okx.com,🌀 𝑨𝒖𝒕𝒐𝒎𝒂𝒕𝒊𝒄
 
 # Apple AI
-DOMAIN-SUFFIX,apple-relay.apple.com,🌀 𝑨𝒖𝒕𝒐𝒎𝒂𝒕𝒊𝒄
-DOMAIN-SUFFIX,apple-relay.cloudflare.com,🌀 𝑨𝒖𝒕𝒐𝒎𝒂𝒕𝒊𝒄
-DOMAIN-KEYWORD,apple-relay,🌀 𝑨𝒖𝒕𝒐𝒎𝒂𝒕𝒊𝒄
+DOMAIN-SUFFIX,apple-relay.apple.com,✨ 𝑪𝒉𝒂𝒕𝑮𝑷𝑻�
+DOMAIN-SUFFIX,apple-relay.cloudflare.com,✨ 𝑪𝒉𝒂𝒕𝑮𝑷𝑻�
+DOMAIN-KEYWORD,apple-relay,✨ 𝑪𝒉𝒂𝒕𝑮𝑷𝑻�
 # --- Apple Intelligence / Siri / 搜索（官方文档列出的必须直连的主机名，改为走 PROXY 以便换区）---
 # Siri & Dictation
 DOMAIN,guzzoni.apple.com,🌀 𝑨𝒖𝒕𝒐𝒎𝒂𝒕𝒊𝒄
